@@ -1,16 +1,19 @@
 <!--
 GITHUB PROFILE README for AJAY DUBEY (Xtra-stack)
-Designed for: CS Undergrad / Full Stack Developer / P2P Enthusiast
 
-HOW TO USE:
+HOW TO MAKE THIS LIVE:
 
-Go to your GitHub profile.
+Go to https://www.google.com/search?q=https://github.com/new
 
-Create a new repository named exactly: Xtra-stack
+Repository Name: Xtra-stack (Must match your username exactly)
 
-Initialize with a README.md.
+Description: My professional portfolio
 
-Paste this code into that README.md file.
+Public: [x] Yes
+
+Initialize this repository with a README: [x] Yes
+
+Paste the content below into the README.md and save.
 -->
 
 <div align="center">
@@ -25,7 +28,7 @@ Paste this code into that README.md file.
 
 <!-- TYPING ANIMATION -->
 
-<a href="https://www.google.com/search?q=https://git.io/typing-svg">
+<a href="https://www.google.com/search?q=https://github.com/Xtra-stack">
 <img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D58A6FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DCS%2BUndergrad%3BFull%2BStack%2BDeveloper%3BReal-time%2BSystems%2BEnthusiast%3BExploring%2BDecentralized%2BWeb" alt="Typing Animation" />
 </a>
 </div>
@@ -33,8 +36,8 @@ Paste this code into that README.md file.
 🚀 About Me
 
 <div align="center">
-<!-- MAIN ANIMATED CHARACTER WORKING ON COMPUTER -->
-<img src="https://www.google.com/search?q=https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/assets/74038190/352277cb-d8a4-43cb-91a1-f76db364243b" width="450" alt="Developer Animation" />
+<!-- MAIN ANIMATED CHARACTER -->
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/74038190/212284100-561aa273-3949-4340-ba77-94c8e830113c.gif" width="450" alt="Developer Animation" />
 </div>
 
 I am a Computer Science undergraduate specializing in real-time communication and backend architecture. My passion lies in understanding how data flows across the web and exploring how decentralized protocols can reshape our digital infrastructure.
@@ -51,9 +54,7 @@ I am a Computer Science undergraduate specializing in real-time communication an
 
 <div align="center">
 <!-- ANIMATED TROPHIES -->
-<a href="https://www.google.com/search?q=https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DXtra-stack%26theme%3Dtokyonight%26no-bg%3Dtrue%26margin-w%3D15" alt="Trophies" />
-</a>
 
 <!-- STATS CARDS -->
 
@@ -65,28 +66,30 @@ I am a Computer Science undergraduate specializing in real-time communication an
 
 <div align="center">
 <!-- Programming Languages & Frameworks -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/WebRTC-333333%3Fstyle%3Dfor-the-badge%26logo%3Dwebrtc%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JS" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/WebRTC-333333%3Fstyle%3Dfor-the-badge%26logo%3Dwebrtc%26logoColor%3Dwhite" alt="WebRTC" />
 
 
 
 
 
 <!-- Databases & Tools -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
 </div>
 
 🐍 Contribution Journey
 
 <div align="center">
 <!-- THE SNAKE ANIMATION -->
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Xtra-stack/Xtra-stack/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<!-- NOTE: This image will only work after you set up the "Snake Action" workflow in your repo -->
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/Xtra-stack/Xtra-stack/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<p><i>(Snake animation will appear once the GitHub Action is configured)</i></p>
 </div>
 
 🌟 Featured Projects
@@ -127,10 +130,10 @@ Exploring content-addressed storage solutions and data sharding.
 
 <div align="center">
 <a href="https://www.google.com/search?q=https://linkedin.com/in/Xtra-stack">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
 <a href="mailto:ajay@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
 </a>
 </div>
 
@@ -138,5 +141,5 @@ Exploring content-addressed storage solutions and data sharding.
 
 <div align="center">
 <!-- FOOTER WAVE -->
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dauto%26height%3D100%26section%3Dfooter%26theme%3Ddark" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dauto%26height%3D100%26section%3Dfooter%26theme%3Ddark" alt="Footer" />
 </div>
