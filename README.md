@@ -82,6 +82,8 @@ I am a Computer Science undergraduate specializing in real-time communication an
 🐍 Contribution Journey
 
 <div align="center">
+<!-- THE SNAKE ANIMATION -->
+<!-- Note: This will show as a broken image until you set up the 'Platane/snk' GitHub Action -->
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Xtra-stack/Xtra-stack/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
@@ -119,14 +121,16 @@ Exploring content-addressed storage solutions and data sharding.
 
 <div align="center">
 <a href="https://www.google.com/search?q=https://linkedin.com/in/Xtra-stack">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
 </a>
 <a href="mailto:ajay@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
 </a>
 </div>
 
+<br />
+
 <div align="center">
 <!-- FOOTER WAVE -->
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dauto%26height%3D100%26section%3Dfooter%26theme%3Ddark" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dauto%26height%3D100%26section%3Dfooter%26theme%3Ddark" alt="Footer Wave" />
 </div>
