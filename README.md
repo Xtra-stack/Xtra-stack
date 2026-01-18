@@ -1,16 +1,6 @@
 <!--
 GITHUB PROFILE README for AJAY DUBEY (Xtra-stack)
 Designed for: CS Undergrad / Full Stack Developer / P2P Enthusiast
-
-HOW TO MAKE THIS LIVE:
-
-Go to your GitHub profile.
-
-Create a new repository named exactly: Xtra-stack
-
-Initialize with a README.md.
-
-Paste this code into that README.md file and save.
 -->
 
 <div align="center">
@@ -62,18 +52,27 @@ I am a Computer Science undergraduate specializing in real-time communication an
 🛠️ Tech Stack
 
 <div align="center">
-<!-- Programming Languages & Frameworks -->
+<!-- Frontend & Design -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JS" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
+
+
+
+
+
+<!-- Backend & Real-time -->
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Socket.io-010101%3Fstyle%3Dfor-the-badge%26logo%3Dsocket.io%26logoColor%3Dwhite" alt="Socket.io" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/WebRTC-333333%3Fstyle%3Dfor-the-badge%26logo%3Dwebrtc%26logoColor%3Dwhite" alt="WebRTC" />
 
 
 
 
 
-<!-- Databases & Tools -->
+<!-- Databases & Infrastructure -->
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
@@ -83,10 +82,7 @@ I am a Computer Science undergraduate specializing in real-time communication an
 🐍 Contribution Journey
 
 <div align="center">
-<!-- THE SNAKE ANIMATION -->
-<!-- NOTE: This image will only work after you set up the "Snake Action" workflow in your repo -->
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Xtra-stack/Xtra-stack/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-<p><i>(Snake animation will appear once the GitHub Action is configured)</i></p>
 </div>
 
 🌟 Featured Projects
@@ -102,9 +98,7 @@ Built using <b>WebRTC DataChannels</b> for direct browser-to-browser communicati
 
 Bypasses server bandwidth limits by enabling direct peer transfers.
 
-Ensures privacy by keeping data off intermediate servers.
-
-<b>Stack:</b> React, Node.js (Signaling server), WebRTC.
+<b>Stack:</b> React, Node.js, WebRTC, Socket.io (Signaling).
 </details>
 
 <details>
@@ -116,27 +110,23 @@ Ensures privacy by keeping data off intermediate servers.
 
 Exploring content-addressed storage solutions and data sharding.
 
-<b>Status:</b> Research & Development Phase.
+<b>Status:</b> Research Phase.
 
-<b>Focus:</b> Implementing basic file sharding and hashing logic using IPFS concepts.
-
-<b>Future Scope:</b> Verifiable integrity via blockchain integration.
+<b>Future Scope:</b> Integrating <b>IPFS</b> and blockchain integrity.
 </details>
 
 🤝 Connect With Me
 
 <div align="center">
 <a href="https://www.google.com/search?q=https://linkedin.com/in/Xtra-stack">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
 </a>
 <a href="mailto:ajay@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
 </a>
 </div>
 
-<br />
-
 <div align="center">
 <!-- FOOTER WAVE -->
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dauto%26height%3D100%26section%3Dfooter%26theme%3Ddark" alt="Footer" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3Dauto%26height%3D100%26section%3Dfooter%26theme%3Ddark" />
 </div>
