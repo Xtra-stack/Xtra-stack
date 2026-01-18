@@ -1,19 +1,16 @@
 <!--
 GITHUB PROFILE README for AJAY DUBEY (Xtra-stack)
+Designed for: CS Undergrad / Full Stack Developer / P2P Enthusiast
 
 HOW TO MAKE THIS LIVE:
 
-Go to https://www.google.com/search?q=https://github.com/new
+Go to your GitHub profile.
 
-Repository Name: Xtra-stack (Must match your username exactly)
+Create a new repository named exactly: Xtra-stack
 
-Description: My professional portfolio
+Initialize with a README.md.
 
-Public: [x] Yes
-
-Initialize this repository with a README: [x] Yes
-
-Paste the content below into the README.md and save.
+Paste this code into that README.md file and save.
 -->
 
 <div align="center">
@@ -88,7 +85,7 @@ I am a Computer Science undergraduate specializing in real-time communication an
 <div align="center">
 <!-- THE SNAKE ANIMATION -->
 <!-- NOTE: This image will only work after you set up the "Snake Action" workflow in your repo -->
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/Xtra-stack/Xtra-stack/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Xtra-stack/Xtra-stack/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 <p><i>(Snake animation will appear once the GitHub Action is configured)</i></p>
 </div>
 
