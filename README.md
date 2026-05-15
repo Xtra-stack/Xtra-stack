@@ -1,208 +1,165 @@
-<!-- Animated Header Banner -->
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajay&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=51&descAlign=50)
+
+```
+ █████╗      ██╗ █████╗ ██╗   ██╗
+██╔══██╗     ██║██╔══██╗╚██╗ ██╔╝
+███████║     ██║███████║ ╚████╔╝ 
+██╔══██║██   ██║██╔══██║  ╚██╔╝  
+██║  ██║╚█████╔╝██║  ██║   ██║   
+╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝  
+```
+
+### `Full-Stack Developer` · `B.Tech CSE '26` · `Open Source Contributor`
+
+*Building real software. Shipping it. Breaking it. Fixing it better.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-dubey-7a8939260)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xtra-stack)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajy2bey@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-eta-flame-78.vercel.app)
 
 </div>
 
-<!-- Typing Animation Intro -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Building+real-time+P2P+systems+%F0%9F%9A%80;Studying+Blockchain+%26+Distributed+Systems+%F0%9F%94%97" alt="Typing SVG" />
-  </a>
-</p>
+---
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Xtra-stack)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-<!-- Replace 'your-linkedin' with your actual LinkedIn username -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-<!-- Replace with your actual email -->
-
-</div>
-
-<br>
-
-## 👨‍💻 About Me
+## 👾 About Me
 
 ```javascript
 const ajay = {
-    role: "Full Stack Web Developer",
-    education: "Computer Science Undergraduate",
-    expertise: ["Frontend Development", "Backend Development", "Real-time Systems"],
-    currentlyLearning: ["Blockchain (Hyperledger)", "libp2p", "Distributed Systems"],
-    recentProject: "P2P File Transfer using WebRTC",
-    funFact: "Built a browser-based P2P system without server file storage 🚀"
+  role:       "Full-Stack Developer",
+  currently:  "B.Tech CSE @ Bundelkhand University (2026)",
+  building:   "Production-grade apps with React + Node + Docker",
+  open_to:    ["SWE Roles", "Full-Stack", "Backend", "Open Source"],
+  outside_code: ["Chess ♟️", "Competitive Programming", "Creative Writing ✍️", "Dancing 💃"],
+  mantra:     "Ship it, then make it better."
 };
 ```
 
-Full Stack Web Developer with hands-on experience building real-time, peer-to-peer applications. Currently expanding into blockchain technologies and distributed systems while strengthening my expertise in modern web development.
+I'm a developer who likes the whole stack — architecting backends, crafting clean UIs, and figuring out why the container won't start at 2 AM. I care about code quality, real-world deployments, and building things that actually work.
 
-<br>
+---
 
 ## 🛠️ Tech Stack
 
-### Technologies I Use
-
 <div align="center">
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Languages**
 
-#### Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Frontend**
 
-#### Real-time & APIs
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-#### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+**Database & Auth**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-003A70?style=flat-square&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
-### Currently Learning & Exploring
-
-<div align="center">
-
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![libp2p](https://img.shields.io/badge/libp2p-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADGSURBVHgBjZLBDYMwDEVtOqVX9gAj0I3oBmxQNqAjsAEbwAZ0AzagG3Rlj+aBIoLUfsmSZTv/2QkQEZkppXaIuAOArutO1tqTMWYHAL33J+fcGhHXWuuzc+4MAEtKaUFEK0Rcc86fSqkVY+yhtd5Syh9E9BhjPGqtH4yxB2PsSSnVSimfSqkVpfSRUj4ZYw+ttY/W+sM5d+Scv5RS60qpNaX0WSl1Nsbsc84fpdQaEVfOuTNjbI2Ia8bYjnP+whh7Yf8r/gC7KTyZf8ZjUAAAAABJRU5ErkJggg==&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-<br>
+---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🧠 VIE — Virtual Industry Experience Platform
+> *The closest thing to a real dev job — without the office politics.*
 
-### 📡 Browser P2P File Transfer System
-**Status:** ✅ Completed
+A full-stack SDLC simulation with role-based workflows: **Junior → Senior → Manager**. Tasks go through `assign → submit → review → rework → approve` with enforced approval gates at every stage.
 
-A browser-based peer-to-peer file transfer application utilizing WebRTC DataChannels for direct client-to-client communication without server intermediaries.
+- **Auth:** JWT + RBAC across all API routes
+- **In-browser coding:** Monaco Editor integration
+- **Notifications:** Automated emails via Nodemailer on role transitions
+- **Infra:** Dockerised, deployed via GitHub Actions CI/CD, behind Nginx reverse proxy
 
-**Key Features:**
-- Direct browser-to-browser file transfers
-- WebRTC DataChannel implementation
-- Real-time connection status
-- No file size restrictions from server limitations
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://vie-platform.vercel.app)
 
-**Tech Stack:** `JavaScript` `WebRTC` `Node.js` `Socket.io` `HTML/CSS`
+---
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xtra-stack/p2p-file-transfer)
-<!-- Replace 'p2p-file-transfer' with your actual repository name -->
+### 🌐 Real-Time Network Inspector
+> *Wireshark vibes, but you built it yourself.*
 
-</div>
+A full-stack network monitoring system that captures live packets using a **C++ libpcap/Npcap sniffer**, streams them to a Node.js backend for protocol analysis (HTTP, DNS, TCP, UDP), and detects suspicious traffic via keyword matching.
 
-<br>
+- **Real-time:** Socket.io for live packet broadcasting
+- **Persistence:** MongoDB + Mongoose for logs and alerts
+- **Dashboard:** React + Vite with Recharts for protocol distribution and traffic trends
 
-> **🔍 Exploring Next:** Currently studying blockchain technologies (Hyperledger), libp2p networking protocols, and distributed systems architecture. More projects coming soon!
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xtra-stack/real-time-network-inspector)
 
-<br>
+---
+
+### 📁 P2P File Sharing Web App
+> *No servers storing your files. Just browser to browser.*
+
+Browser-to-browser file transfers using **WebRTC data channels** with a Node.js signaling server. Zero server-side storage — tested up to 500MB transfers.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=render&logoColor=white)](https://p2p-file-transfer-n03n.onrender.com)
+
+---
+
+### 🪐 3D Solar System Portfolio
+> *Because a plain portfolio is too mainstream.*
+
+Interactive 3D solar system with orbital animations, planet click interactions, and real-time camera controls built with **Three.js** — optimised to maintain 60fps across devices.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-eta-flame-78.vercel.app)
+
+---
+
+## 🤝 Open Source
+
+- **Dating_Source_code** — Contributed `updatePreferences` API (`PUT /api/profile/update-preferences`) with input validation and test coverage
+- **CleanerX** — Built auth setup, middleware, cart & wishlist functionality, and login fixes — **5 commits merged to production branch**
+
+---
 
 ## 📊 GitHub Stats
 
-<!-- Option 1: Using multiple reliable providers -->
 <div align="center">
 
-<a href="https://github.com/Xtra-stack">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xtra-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xtra-stack&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</a>
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xtra-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xtra-stack&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-<div align="center">
-  
-<a href="https://github.com/Xtra-stack">
-  <img src="https://streak-stats.demolab.com/?user=Xtra-stack&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</a>
+---
 
-</div>
+## 🏅 Certifications
 
-<!-- Option 2: Simple contribution graph (always loads) -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xtra-stack&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph"/>
-
-</div>
-
-<!-- Option 3: GitHub Profile Trophy (lightweight, always works) -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Xtra-stack&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-<br>
-
-## 🎯 Current Goals
-
-- 📚 Deepening knowledge in blockchain technologies and Hyperledger frameworks
-- 🔗 Learning libp2p networking protocols and distributed systems architecture
-- 💼 Building more full-stack projects with real-world applications
-- 🌱 Contributing to open-source projects in web development and P2P systems
-- 🎓 Strengthening system design and backend scalability skills
-
-<br>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I'm always open to discussing interesting projects, collaboration opportunities, or just chatting about technology!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-<!-- Replace with your actual social media handles -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-<!-- Replace with your actual email -->
-
-</div>
-
-<br>
-
-<div align="center">
-  
-### 💭 Random Dev Quote
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
-<br>
+- **Internship Completion** — Cognifyz Technologies, Aug 2025 · `ID: CTI/A1/C182540`
 
 ---
 
 <div align="center">
-  
-### ⚡ "Code, Learn, Build, Repeat" ⚡
 
-![Profile Views](https://komarev.com/ghpvc/?username=Xtra-stack&color=58A6FF&style=for-the-badge&label=Profile+Views)
+*Last updated: May 2026*
 
-</div>
+**If you've read this far, let's build something together.**
 
-<!-- Animated Footer Wave -->
-<div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+[![LinkedIn](https://img.shields.io/badge/Say_Hi_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-dubey-7a8939260)
 
 </div>
